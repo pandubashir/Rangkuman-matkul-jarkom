@@ -1,6 +1,6 @@
-Pandu Bashir Alamin 
-20210801155
-Rangkuman pertemuan matkul jaringan komputer lanjut
+## Pandu Bashir Alamin 
+## 20210801155
+## Rangkuman pertemuan matkul jaringan komputer lanjut
 
 Dimulai dari klasifikasi kelas ip 
 Kelas A (0.0.0.0 - 127.255.255.255)
